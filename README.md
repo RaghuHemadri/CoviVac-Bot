@@ -23,6 +23,8 @@ This bot is built and tested on Linux and Mac OS X. It should work on Windows ma
 
 ### Installation
 
+Fill `secrets.py` with appropriate details (`TELEGRAM_BOT_TOKEN`, `DEVELOPER_CHAT_ID`)
+
 Install the project requirements from `requirements.txt`:
 
 ```shell
